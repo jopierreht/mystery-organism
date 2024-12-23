@@ -55,7 +55,7 @@ const pAequorFactory = (specimenNum, dna) => {
   };
 };
 
-// Create 30 instances of pAequor that are likely to survice
+// Create 30 instances of pAequor that are likely to survice || Ok? Good Job
 const createSurvivingSpecimens = () => {
   const survivingSpecimens = [];
   let specimenNum = 1;
